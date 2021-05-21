@@ -3,7 +3,7 @@
 <img align="right" width="500px" display="block" src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
 <h4>Eu sou a Bruuthais ✨</h4>
 <h4>Sou estudante de ADS e sou apaixonada por Front-end 💗</h4>
-<em>Gosto de ler mangá e amo jogar rpgs. Também tenho 4 gatinhos lindinhos 😻</em>
+<em>Gosto de ler mangás e amo jogar rpgs. Também tenho 4 gatinhos lindinhos 😻</em>
  <h4>✨ Atualmente estou tentando me aprimorar em:</h4>
  <ul>
   <li>JS</li>
