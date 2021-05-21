@@ -1,5 +1,5 @@
 
-<h3>Olá, Seja bem vindo! 💖</h3> 
+<h3>Olá, seja bem vindo! 💖</h3> 
 <img align="right" width="500px" display="block" src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
 <h4>Eu sou a Bruuthais ✨</h4>
 <h4>Sou estudante de ADS e sou apaixonada por 
