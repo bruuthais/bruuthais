@@ -8,7 +8,7 @@
  <ul>
   <li>JS</li>
   <li>React</li>
-    <li>Inglês</li>
+  
   </ul>
   
  
