@@ -6,8 +6,7 @@
 <em>Gosto de ler mangás e amo jogar rpgs. Também tenho 4 gatinhos lindinhos 😻</em>
  <h4>✨ Atualmente estou tentando me aprimorar em:</h4>
  <ul>
-  <li>JS</li>
-  <li>React</li>
+  <li>ReactJs e Native</li>
   
   </ul>
   
